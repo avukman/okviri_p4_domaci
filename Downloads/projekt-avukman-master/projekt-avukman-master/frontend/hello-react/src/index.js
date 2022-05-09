@@ -19,7 +19,7 @@ const Hello = (props) => {
 const Pozdrav = () => {
   return(
     <div>
-      <p>Dobar dan</p>
+      <p>Dobar dan!</p>
     </div>
   )
 }
